@@ -1,9 +1,13 @@
 # Trabalho-R
 
 para contatenar ou criar uma lista uitilzar o (c)
+
 #Daniel Lemos Bispo 
+
 #Cursando 2° semestre de data science no ceub
+
 #Atividade sugerida pelo professor Wandre https://www.linkedin.com/in/wandreveloso/
+
 pop <- murders$population
 
 library(dslabs)
